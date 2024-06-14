@@ -47,6 +47,7 @@ const App = () => {
                             <h2>
                                 {index + 1}. {post.title}
                             </h2>
+
                             <p>{post.body}</p>
                         </li>
                     ))}
